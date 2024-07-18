@@ -1,1 +1,1 @@
-# text-summarization-with-transformers
+This Git repository contains a project that utilizes the Hugging Face Transformers library to perform text summarization using pipelines. The code provides an easy way to generate concise summaries of text data by leveraging state-of-the-art transformer models
